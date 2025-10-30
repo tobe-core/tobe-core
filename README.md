@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### This is *Tobe*
 - 🔭 I'm currently working on apps to automatize Linux functionalities
-- 🌱 All repos are currently for me for backup and have it all organized, but wanted to share how it is
+- 🌱 All repos are mainly for me for backup and have it all organized, but wanted to share how it is
 - 📫 How to reach me -> ```tobe.core``` on Discord
 - ⚡ Fun fact: My code is the worst
 
