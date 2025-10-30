@@ -1,6 +1,6 @@
 ## Hi there 👋
 #### This is *Tobe*
-- 🔭 I'm currently working on apps to automatize the Linux functionalities
+- 🔭 I'm currently working on apps to automatize Linux functionalities
 - 📫 How to reach me -> ```tobe.core``` on Discord
 - ⚡ Fun fact: My code is the worst
 
