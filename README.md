@@ -1,4 +1,8 @@
 ## Hi there 👋
+#### This is *Tobe*
+- 🔭 I'm currently working on apps to automatize the Linux functionalities
+- 📫 How to reach me -> ```tobe.core``` on Discord
+- ⚡ Fun fact: My code is the worst
 
 <!--
 **tobe-core/tobe-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
