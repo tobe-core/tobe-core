@@ -1,5 +1,5 @@
-## Hi there 👋
-#### This is *Tobe*
+# Hi there 👋
+### This is *Tobe*
 - 🔭 I'm currently working on apps to automatize Linux functionalities
 - 🌱 All repos are mainly for me for backup and have it all organized, but wanted to share how it is
 - 🗓️ Take a look at the project [Hyprland Work](https://github.com/users/tobe-core/projects/7) where I share what I'm actively working on
